@@ -2,13 +2,20 @@
 
 - 🔭 Hoje trabalho como Front-end
 - 🌱 Estudo Análise e Desenvolvimento de Sistemas
-- 📫 Contate-me no email: franciscoklebioks.dev@gmail.com
+- 📫 Contate-me no email: francisco_development@yahoo.com
 
-<div>
-  <a href="https://github.com/kscarvalho">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kscarvalho&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/.>  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kscarvalho&layout=compact&langs_count=16&theme=dracula"/.> 
-</div>  
+<div align="center">
+  <a href="https://github.com/kscarvalho" target="_blank">
+    <img
+      height="180em"
+      src="https://github-readme-stats.vercel.app/api?username=kscarvalho&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"
+    />
+    <img
+      height="180em"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=kscarvalho&layout=compact&langs_count=16&theme=dracula"
+    />
+  </a>
+</div>
     
 ## Tecnologias
 
