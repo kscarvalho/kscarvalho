@@ -12,7 +12,7 @@
     />
     <img
       height="180em"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=kscarvalho&layout=compact&langs_count=16&theme=dracula"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=kscarvalho&layout=compact&langs_count=16&theme=cobalt"
     />
   </a>
 </div>
