@@ -31,7 +31,7 @@
 </div> 
 
 -----
-<div>
+<div style="display: flex">
 | Cursos | Certificados | 
 |--------|--------------|
 | Explorando Conjuntos em Python | [Certificado](https://hermes.dio.me/certificates/ZCF6TPMV.pdf)
