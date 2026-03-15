@@ -32,14 +32,18 @@
 
 -----
 <div style="display: flex">
+  <div>
 | Cursos | Certificados | 
 |--------|--------------|
 | Explorando Conjuntos em Python | [Certificado](https://hermes.dio.me/certificates/ZCF6TPMV.pdf)
 | Tuplas em Python | [Certificado](https://hermes.dio.me/certificates/3I8TYRDU.pdf)
+  </div>
+  <div>
 | Cursos | Certificados | 
 |--------|--------------|
 | Explorando Conjuntos em Python | [Certificado](https://hermes.dio.me/certificates/ZCF6TPMV.pdf)
-| Tuplas em Python | [Certificado](https://hermes.dio.me/certificates/3I8TYRDU.pdf)  
+| Tuplas em Python | [Certificado](https://hermes.dio.me/certificates/3I8TYRDU.pdf)
+  </div>    
 </div>
 
 ## Redes
