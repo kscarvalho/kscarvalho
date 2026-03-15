@@ -30,7 +30,9 @@
 <img align="center" height="70" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" />     
 </div> 
 
+-----
 | Cursos | Certificados |
+|--------|--------------|
 | Tuplas em Python | [c](https://hermes.dio.me/certificates/3I8TYRDU.pdf)
 
 ## Redes
