@@ -1,7 +1,7 @@
 ## Olá! Eu sou kscarvalho 👋
 
 - 🔭 Hoje trabalho como Front-end
-- 🌱 Estudo Análise e Desenvolvimento de Sistemas
+- 🌱 Estudo Engenharia de Software
 - 📫 Contate-me no email: francisco_development@yahoo.com
 
 <div align="center">
