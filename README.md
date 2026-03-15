@@ -33,7 +33,7 @@
 -----
 | Cursos | Certificados |
 |--------|--------------|
-| Tuplas em Python | [c](https://hermes.dio.me/certificates/3I8TYRDU.pdf)
+| Tuplas em Python | [Certificado](https://hermes.dio.me/certificates/3I8TYRDU.pdf)
 
 ## Redes
 
