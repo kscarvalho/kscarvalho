@@ -1,8 +1,18 @@
-## Olá! Eu sou kscarvalho 👋
+## <h1 align="center"> Olá! Eu sou Klebio 👋</h1>
 
-- 🔭 **Hoje procuro trabalho como Front-end**
-- 🌱 Estudo Engenharia de Software
-- 📫 Contate-me no email: francisco_development@yahoo.com
+## <h2>🧔🏻 Sobre mim</h2>
+
+<h4>Desenvolvedor Front-End focado em criar interfaces modernas e performáticas</h4>
+<li> 👨‍💻 Experiencia prática com consumo de APIs REST e integração de sistemas</li>
+<li> 🥇 Desenvlvimento com React, Next.js e TypeScript, aplicando componetização de boas práticas</li>
+<li> 🧽 Foco em código limpo, reutilizável e escalável</li>
+<li> 📊 Em constante evolução, aplicando na prática conceitos de UI/UX e arquitetura front-end</li>
+<li> ✍️ Atualmente estudo Engenharia de Software</li>
+<li> 📫 email: francisco_development@yahoo.com</li>
+
+<h4>  Continuamente desenvolvo projetos reais para consolidar experiência de mercado</h4>
+
+## <h2> Estatisticas </h2>  
 
 <div align="center">
   <a href="https://github.com/kscarvalho" target="_blank">
@@ -17,18 +27,20 @@
   </a>
 </div>
     
-## Tecnologias
-<br>
-<div  style="display: inline-block;">
-<img align="center" height="70" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-<img align="center" height="70" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-<img align="center" height="70" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-<img align="center" height="70" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
-<img align="center" height="70" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
-<img align="center" height="70" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
-<img align="center" height="70" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" /> 
-<img align="center" height="70" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" />    
-</div> 
+## Skills
+
+<table display="flex" >
+  <tr>
+   <td><img align="center" height="40" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" /></td>
+   <td><img align="center" height="40" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" /></td>
+   <td><img align="center" height="40" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" /></td>
+   <td><img align="center" height="40" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" /></td>
+   <td><img align="center" height="40" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" /></td>
+   <td><img align="center" height="40" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" /></td>
+   <td><img align="center" height="40" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" /></td> 
+   <td><img align="center" height="40" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" /></td>  
+</tr>
+</table>
 
 -----
 | Cursos | Certificados | 
@@ -48,9 +60,13 @@
   <a href="https://www.linkedin.com/in/francisco-klebio-furtado-de-carvalho-667b1513a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"><a/>
 </div>
 
-## IDE
+## IDEs
 
 <div>
 <a href=""><img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"><a/>
 </div>
+
+## Portifólio
+
+<strong>Meu site:</strong>
 
